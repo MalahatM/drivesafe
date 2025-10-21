@@ -14,7 +14,7 @@
 /* --- Title --- */
 h1 {
   font-size: 2.8rem;
-  color: #ff4d4d; /*  bright red */
+  color: #d0261a; /*  bright red */
   text-shadow: 0 0 15px rgba(255, 77, 77, 0.6); /* glowing effect */
   margin-bottom: 2.5rem;
   transition: all 0.3s ease;
